@@ -1,3 +1,3 @@
 export default defineNitroConfig({
-  // preset: "netlify",
+  preset: "netlify",
 });
