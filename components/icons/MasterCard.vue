@@ -1,0 +1,38 @@
+<template>
+  <svg
+    width="100%"
+    height="100%"
+    viewBox="0 0 67 41"
+    fill="none"
+    xmlns="https://www.w3.org/2000/svg"
+  >
+    <rect
+      width="66.6667"
+      height="40"
+      transform="translate(0.333008 0.714355)"
+      fill="#10427A"
+    />
+    <ellipse
+      cx="25.9438"
+      cy="20.8811"
+      rx="12.2778"
+      ry="12.2778"
+      fill="#D32011"
+    />
+    <ellipse
+      cx="41.0551"
+      cy="20.8811"
+      rx="12.2778"
+      ry="12.2778"
+      fill="#F79E1B"
+    />
+    <ellipse
+      cx="25.9438"
+      cy="20.8811"
+      rx="12.2778"
+      ry="12.2778"
+      fill="#EB001B"
+      fill-opacity="0.3"
+    />
+  </svg>
+</template>

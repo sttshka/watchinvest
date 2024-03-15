@@ -1,0 +1,88 @@
+/* 
+Old Standard TT
+400,
+normal, italic
+
+*/
+
+/* Azo Sans 400, 500 */
+@font-face {
+  font-family: "Azo Sans";
+  src:
+    local("Azo Sans Regular"),
+    local("Azo-Sans-Regular"),
+    url("../fonts/AzoSans-Regular/AzoSans-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/AzoSans-Regular/AzoSans-Regular.woff") format("woff"),
+    url("../fonts/AzoSans-Regular/AzoSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Azo Sans";
+  src:
+    local("Azo Sans Bold"),
+    local("Azo-Sans-Bold"),
+    url("../fonts/AzoSans-Bold/AzoSans-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/AzoSans-Bold/AzoSans-Bold.woff2") format("woff2"),
+    url("../fonts/AzoSans-Bold/AzoSans-Bold.woff") format("woff"),
+    url("../fonts/AzoSans-Bold/AzoSans-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Azo Sans";
+  src:
+    local("Azo Sans Medium"),
+    local("Azo-Sans-Medium"),
+    url("../fonts/AzoSans-Medium/AzoSans-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/AzoSans-Medium/AzoSans-Medium.woff2") format("woff2"),
+    url("../fonts/AzoSans-Medium/AzoSans-Medium.woff") format("woff"),
+    url("../fonts/AzoSans-Medium/AzoSans-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* SF Pro 300 */
+@font-face {
+  font-family: "SF Pro";
+  src: url("../fonts/SF-Pro/SFProDisplay-Thin.eot");
+  src:
+    url("../fonts/SF-Pro/SFProDisplay-Thin.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/SF-Pro/SFProDisplay-Thin.woff") format("woff"),
+    url("../fonts/SF-Pro/SFProDisplay-Thin.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Old Standard TT 400 | normal, italic */
+
+@font-face {
+  font-family: "Old Standard";
+  src: url("../fonts/Old-Standart/OldStandardTT-Regular.eot");
+  src:
+    url("../fonts/Old-Standart/OldStandardTT-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/Old-Standart/OldStandardTT-Regular.woff") format("woff"),
+    url("../fonts/Old-Standart/OldStandardTT-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Old Standard";
+  src: url("../fonts/Old-Standart-Italic/OldStandardTT-Italic.eot");
+  src:
+    url("../fonts/Old-Standart-Italic/OldStandardTT-Italic.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/Old-Standart-Italic/OldStandardTT-Italic.woff") format("woff"),
+    url("../fonts/Old-Standart-Italic/OldStandardTT-Italic.ttf")
+      format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
