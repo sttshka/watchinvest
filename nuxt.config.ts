@@ -45,7 +45,7 @@ export default defineNuxtConfig({
         },
       },
     },
-    // provider: process.env.IMAGE_PROVIDER,
+    provider: process.env.IMAGE_PROVIDER,
     // netlify: {
     //   baseURL: process.env.DOMAIN,
     // },
